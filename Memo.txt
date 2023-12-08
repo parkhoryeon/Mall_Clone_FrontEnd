@@ -1,0 +1,31 @@
+# [ VSC FORMATTER ]
+  확장 프로그램 : prettier
+  edit format on save
+  edit default formatter
+
+
+# [ CREATE REACT ]
+  
+  npx create-react-app [App name]
+
+
+# [ NPM INSTALL ]
+  
+  npm install axios : 
+    HTTP 요청을 간편하게 만들어주는 JavaScript 라이브러리. 주로 REST API와의 통신을 위해 사용.
+  
+  npm install @tanstack/react-query-devtools : 
+    React Query 개발 도구. React Query를 사용할 때 개발자 도구에서 상태를 모니터링하고 디버깅하기 위한 도구.
+  
+  npm install react-query : 
+    서버 상태와 상호작용하기 위한 React Hooks 기반의 라이브러리. 데이터를 캐시하고, 다시 사용하며, 쉽게 업데이트하고, 무엇보다 비동기 데이터 요청을 관리하는데 사용.
+  
+  npm install react-icons --save : 
+    다양한 아이콘을 React 애플리케이션에 추가하기 위한 라이브러리.
+  
+  npm install @chakra-ui/react @emotion/react @emotion/styled framer-motion : 
+    React 애플리케이션을 위한 모듈화된 UI 컴포넌트 라이브러리. Emotion은 CSS-in-JS 라이브러리. framer-motion은 모션 그래픽과 애니메이션을 구현하기 위한 라이브러리.
+  
+  npm install react-router-dom : 
+    애플리케이션에서 라우팅을 담당하는 라이브러리. 단일 페이지 애플리케이션(SPA)을 개발할 때 사용.
+
